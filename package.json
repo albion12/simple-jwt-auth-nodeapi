@@ -1,0 +1,23 @@
+{
+  "name": "nodejsauthapi",
+  "version": "1.0.0",
+  "description": "JWT example",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albion12/nodejsauthapi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albion12/nodejsauthapi/issues"
+  },
+  "homepage": "https://github.com/albion12/nodejsauthapi#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
